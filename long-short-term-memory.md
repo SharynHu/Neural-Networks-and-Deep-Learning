@@ -18,7 +18,7 @@ LSTMs also have this chain like structure, but the repeating module has a differ
 
 ![](.gitbook/assets/image%20%284%29.png)
 
-### The Core Idea Behind LSTMs <a id="the-core-idea-behind-lstms"></a>
+## The Core Idea Behind LSTMs
 
 **The key to LSTMs is the cell state**, the horizontal line running through the top of the diagram.
 
